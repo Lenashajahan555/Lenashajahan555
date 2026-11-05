@@ -27,4 +27,4 @@ I am a **Data & AI Specialist Intern at BICC** in Doha, Qatar, specializing in ,
 
 ---
 
-### 📂 Featured Architecture Focus
+
