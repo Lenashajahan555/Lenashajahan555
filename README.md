@@ -1,6 +1,6 @@
 # Hi there, I'm Lena Shajahan 👋
 
-**Data & AI Specialist Intern at BICC | Full-Stack Developer**  
+**Data & AI Intern at BICC | Full-Stack Developer**  
 📍 Doha, Qatar  
 
 ---
